@@ -1,6 +1,7 @@
-# [You Just Want Attention]()
+# [You Just Want Attention](https://www.youtube.com/watch?v=nfs8NYg7yQM)
 
 - 자연어 처리, 영상 처리 핵심 문제를 해결한 개념, Attention<sup>1</sup>과 관련된 기본적이고 중요한 알고리즘을 공부하는 프로젝트이다.
+
 ( This is the project that will handle *Attention* concept, which solved most of the difficult problems of nlp and computer vison. )
 
 ---
